@@ -1,3 +1,5 @@
 #pragma once
+#include <GLFW/glfw3.h>
 
-void drawLines(float cubeSize, float sphereRadius, float cubeY);
+// Рисуем канаты как цилиндры
+void drawLines(float cubeSize, float sphereRadius, float cubeY, GLuint ropeTex);

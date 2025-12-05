@@ -5,7 +5,11 @@
       <FullPath>C:\Users\HP\Documents\Visual Studio 2022\testare\x64\Debug\testare.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
-  <ContentFiles />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\HP\Downloads\balloon.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
   <SatelliteDlls />
   <NonRecipeFileRefs />
 </Project>
